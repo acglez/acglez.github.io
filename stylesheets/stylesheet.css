@@ -368,6 +368,12 @@ Full-Width Styles
   background: #212121;
 }
 
+#lista_lateral {
+  float: left;
+  padding-bottom: 150px;
+  margin-left:15px;
+}
+
 
 
 /*******************************************************************************
@@ -405,7 +411,7 @@ Small Device Styles
   }
 
   h4 {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   h5 {
